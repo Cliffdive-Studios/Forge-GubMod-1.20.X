@@ -30,7 +30,8 @@ public class GubMod
         MinecraftForge.EVENT_BUS.register(this);
         modEventBus.addListener(this::addCreative);
     }
-
+    // This is better than adding a space T-T
+    // Char is a twink
     private void commonSetup(final FMLCommonSetupEvent event) {
 
     }
