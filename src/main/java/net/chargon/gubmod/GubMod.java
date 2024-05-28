@@ -20,7 +20,7 @@ public class GubMod
     // Define mod id in a common place for everything to reference
     public static final String MOD_ID = "gubmod";
     // Directly reference a slf4j logger
-    // Test 2
+    // Test
     private static final Logger LOGGER = LogUtils.getLogger();
 
     public GubMod() {
